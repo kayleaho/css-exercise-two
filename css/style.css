@@ -1,6 +1,7 @@
 body {
-  background-color: #ff0000;
+  background-color: #f2f2f2;
   color: #0000FF;
+  font-size: 30px;
 }
 
 nav {
@@ -42,8 +43,46 @@ li {
   padding: 30px;
 }
 
+a {
+  font-family: Helvetica;
+  text-decoration: none;
+  color: #ffffff
+}
+a:hover { color: #0070BC; } /* mouse over */
+
+figcaption {
+  font-size: 15px;
+  line-height: 2em;
+  color: #808080
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Helvetica;
+  line-height: 3em;
+  color: #000000
+}
+
+h3 {
+  font-size: 25px;
+  font-family: Helvetica;
+  line-height: 1.5em;
+  color: #606060
+}
+
+.author {
+  font-size: 25px;
+  font-family: Helvetica;
+  line-height: 4em;
+  color: #000000
+}
+
 article {
+  font-size: 25px;
+  font-family: Helvetica;
   padding-top: 100px;
+  line-height: 1.8em;
+  color: #000000
 }
 
 .container {

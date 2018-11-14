@@ -1,7 +1,7 @@
 body {
   background-color: #f2f2f2;
   color: #0000FF;
-  font-size: 30px;
+  font-size: 18px;
 }
 
 nav {
@@ -57,30 +57,25 @@ figcaption {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 1.8em;
   font-family: Helvetica;
   line-height: 3em;
   color: #000000
 }
 
 h3 {
-  font-size: 25px;
+  font-size: 1em;
   font-family: Helvetica;
-  line-height: 1.5em;
+  font-style: italic;
+  line-height: 1.8em;
   color: #606060
 }
 
-.author {
-  font-size: 25px;
+p {
+  font-size: 1em;
   font-family: Helvetica;
-  line-height: 4em;
-  color: #000000
-}
-
-article {
-  font-size: 25px;
-  font-family: Helvetica;
-  padding-top: 100px;
+  padding-top: 1.8em;
+  margin-bottom: 20px;
   line-height: 1.8em;
   color: #000000
 }
